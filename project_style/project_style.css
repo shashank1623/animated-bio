@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Prompt:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Prompt:wght@100;300&display=swap');
+body{
+    margin: 0;
+    text-align: center;
+}
+
+#first-container {
+    background-color: #e4f9f5;
+
+    position: relative;
+    padding-top: 100px;
+}
+
+h1{
+    margin-top: 0;
+    position: relative;
+    top: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4em;
+
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 374px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 500px;
+}
+
+#bio-font{
+ 
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+#mountain{
+    height: 600px;
+}
+.midlle-conatiner {
+    background-color: #e4f9f5;
+    position: relative;
+}
+hr {
+    border: none;
+  border-top: 2px dotted rgb(174, 174, 174);
+  border-width: 5px;
+  width: 2%;
+  }
+
+  #my-sk{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+  }
+#my-bit{
+    margin-top: 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 76px;
+    position: relative;
+    right: 320px;
+    top: 37px;
+
+}
+.head{
+    display: inline-block;
+    position: relative;
+    top: -86px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+}
+.bio-details{
+    
+    position: relative;
+    top: -89px;
+    left: 150px;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+#dev{
+    position: relative;
+    display: inline-block;
+    bottom: 155px;
+    left: 103px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+}
+
+#dev-bio{
+    position: relative;
+    bottom: 162px;
+    left: 205px;
+    font-family: 'Prompt', sans-serif;
+}
+#dev-bio2{
+    position: relative;
+    left: 203px;
+    bottom: 162px;
+    font-family: 'Prompt', sans-serif;
+}
+
+.bottom-conatiner{
+    position: relative;
+}
+#dev-ani{
+    height: 200px;
+    width: 200px;
+    border-radius: 96px;
+    position: relative;
+    right: 404px;
+    top: 34px;
+}
+#chillies{
+    height: 200px;
+    position: relative;
+    left: 562px;
+}
+#team-man{
+    display: inline-block;
+    position: relative;
+    bottom: 175px;
+    right: 328px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+}
+#team-bio{
+    position: relative;
+    bottom: 162px;
+    right: 259px;
+    font-family: 'Prompt', sans-serif;
+}
+
+#touch{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+}
+#touch-bio{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1em;
+}
+#touch-bio2{
+    font-family: 'Prompt', sans-serif;
+}
+#last-word{
+    font-family: 'Dancing Script', cursive;
+}
